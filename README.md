@@ -1,4 +1,4 @@
-#DIVINE / E-SAVIOR
+#DIVINE-E-ALERTER
 
 E-Alerter | Java, XML, Android Studio 
 

@@ -49,5 +49,5 @@ WE DEVELOPED HAVE DESIGNED AN SIMPLE AND SOPHISITICATED APP SO THAT ANY ONE CAN 
 ![alt text](https://github.com/pankaz20/DIVINE-or-E-Savior/blob/main/Screensort/snap6.JPG?raw=true)
 ![alt text](https://github.com/pankaz20/DIVINE-or-E-Savior/blob/main/Screensort/snap8.JPG?raw=true)
 
-# DIVINE-or-E-Savior
-# DIVINE-or-E-Savior
+# DIVINE-E-Alerter
+# DIVINE-E-Alerter

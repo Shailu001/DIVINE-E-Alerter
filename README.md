@@ -1,23 +1,25 @@
 #DIVINE / E-SAVIOR
 
+E-Alerter | Java, XML, Android Studio 
 
-# 🔨Languages and Tools🔨  
+- A native android application which has functionality like Instant text approach & Manual Alert.
+- Application provides the facilities to inform emergency situations to the believed contacts determining the content of the
+  client, battery rate with the current area in Google Maps
+- In the need of crisis, the client can effectively call the police, rescue vehicle or fire unit, by tapping on numbers.
 
-<img align="left" alt="java" width="22px" src="https://logos-download.com/wp-content/uploads/2016/10/Java_logo_icon.png" />     
-<img align="left" alt="git" width="22px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />    
-<img align="left" alt="github" width="22px" src="https://image.flaticon.com/icons/png/512/25/25231.png" /> .      
+
 
 
 # SKILLS
 
 - ANDRIOD DEVELOPMENT
-- UI/UX DESIGINER
+- UI/UX DESIGINER (XML)
 
 
 #  PROGRAMMING STACK
 
-- JAVA
--Android Development
+- Java
+- Android Development
 
 
 # SMALL EXPLANATION
